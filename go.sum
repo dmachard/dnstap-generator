@@ -1,5 +1,5 @@
-github.com/dmachard/go-dnstap-protobuf v1.3.1 h1:a/4KpfvQCgcE3kSJQYll1Pppm7vgaGePeXwfOmURwGw=
-github.com/dmachard/go-dnstap-protobuf v1.3.1/go.mod h1:uuQrG676PEWSqMn8g08QT/3P5WM2xHZMpHuTXgxm/X8=
+github.com/dmachard/go-dnstap-protobuf v1.4.0 h1:rGX5SLqrg2xQTPnH2FMDs0nfKCbrsQpIWQU8lc03A8U=
+github.com/dmachard/go-dnstap-protobuf v1.4.0/go.mod h1:eVX6AkXNkOuf8FOfiL3wB83Ow59OILShXLWPVycWN7s=
 github.com/dmachard/go-framestream v1.3.2 h1:XBTZSiVXDn9H+jALo/p97oh0WTr66XyuBqApRHIFy44=
 github.com/dmachard/go-framestream v1.3.2/go.mod h1:A0Xy1MbGJ9yLkPxplaeMgq0Cb1vHtXuKcpMMV556T2Y=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
