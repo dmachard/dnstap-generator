@@ -6,7 +6,7 @@ require (
 	github.com/dmachard/go-dnstap-protobuf v1.4.0
 	github.com/dmachard/go-framestream v1.3.2
 	github.com/miekg/dns v1.1.68
-	google.golang.org/protobuf v1.36.10
+	google.golang.org/protobuf v1.36.11
 )
 
 require (
