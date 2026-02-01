@@ -1,6 +1,6 @@
 module github.com/dmachard/go-dnstap-generator
 
-go 1.23.0
+go 1.24
 
 require (
 	github.com/dmachard/go-dnstap-protobuf v1.4.1
