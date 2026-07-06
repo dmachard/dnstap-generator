@@ -1,6 +1,6 @@
 module github.com/dmachard/go-dnstap-generator
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/dmachard/go-dnstap-protobuf v1.4.1
@@ -14,8 +14,8 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.15 // indirect
 	github.com/segmentio/kafka-go v0.4.51 // indirect
 	golang.org/x/mod v0.31.0 // indirect
-	golang.org/x/net v0.48.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sync v0.19.0 // indirect
-	golang.org/x/sys v0.39.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	golang.org/x/tools v0.40.0 // indirect
 )
